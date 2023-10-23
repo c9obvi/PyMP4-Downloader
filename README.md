@@ -5,7 +5,7 @@ to download "most" video URL's
 
 ##Requirements:
 ```bash
-pip install yt-dl
+pip install yt-dlp
 ```
 
 Make sure to replace the path of the download to your desired path
