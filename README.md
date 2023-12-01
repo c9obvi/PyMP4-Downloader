@@ -1,8 +1,8 @@
 # MP4-DL
 
 ## description:
-this is a quickstart repo using existing libraries
-to download "most" video URL's
+this is a quickstart script using existing libraries
+to download "most" video URL's. This can be baked into other programs.
 
 ## Requirements:
 ```bash
