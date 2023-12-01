@@ -30,7 +30,7 @@ def main():
     # Prompt the user for the video URL and filename
     url = input("Enter the URL of the video: ")
     filename = input("Enter the desired filename (without extension): ")
-    download_video(url, "/export/nasTpi/Usx", filename)
+    download_video(url, "/Users/your-username/path", filename)
 
 if __name__ == "__main__":
     main()
